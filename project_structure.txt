@@ -1,0 +1,15 @@
+chat2task/
+│
+├── app/
+│   ├── main.py
+│   ├── api/
+│   │    └── routes.py
+│   ├── core/
+│   │    ├── config.py
+│   │    └── parser.py
+│   ├── services/
+│   │    └── executor.py
+│
+├── logs/
+├── .env
+└── requirements.txt
